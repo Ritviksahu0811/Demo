@@ -1,0 +1,6 @@
+sahu/ritvik/recyclerdemo/BuildConfig.java
+ sahu.ritvik.recyclerdemo.BuildConfig
+sahu/ritvik/recyclerdemo/databinding/ActivityMainBinding.java
+ sahu.ritvik.recyclerdemo.databinding.ActivityMainBinding
+sahu/ritvik/recyclerdemo/databinding/RvItemBinding.java
+ sahu.ritvik.recyclerdemo.databinding.RvItemBinding
